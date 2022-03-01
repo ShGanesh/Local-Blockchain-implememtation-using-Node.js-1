@@ -1,4 +1,4 @@
-# Local-Blockchain-implememtation-using-Node.js-1
+# Local Blockchain Implementation using Node.js 1
 Yes, big name for a file but that is more or less an accurate description of this project.  
 
 This local Blockchain Implementation which uses a basic Proof of Work (PoW) protocol (two leading zeroes).  
